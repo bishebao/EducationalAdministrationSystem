@@ -1,0 +1,2 @@
+# EducationalAdministrationSystem
+ Java毕业设计-基于SSM框架的教务管理系统
